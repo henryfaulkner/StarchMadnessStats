@@ -21,12 +21,11 @@
     "\u00bc cup roughly chopped Spanish olives",
     "\u00bd cup canned black beans, rinsed and drained",
     "\u00bd cup diced tomatoes",
-    "\u2153 cup freshly chopped cilantro leaves"
+    "? cup freshly chopped cilantro leaves"
   ],
   "won_round_one": 1,
-  "won_round_two": 0,
+  "won_round_two": 1,
   "won_round_three": 1,
   "won_round_four": 1,
-  "won_round_five": 1,
-  "won_round_six": 0
+  "won_round_five": 0
 }

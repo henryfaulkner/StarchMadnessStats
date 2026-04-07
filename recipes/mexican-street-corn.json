@@ -1,18 +1,17 @@
 {
-    "cooked_url": "https://cooked.wiki/new/recent/cdd728f4-bed4-41e2-bcc0-b7c0acfd90f1",
-    "source_url": "https://www.chefaaronsanchez.com/post/mexican-street-corn",
-    "title": "Mexican Street Corn",
-    "ingredients": [
-        "1 ear of corn",
-        "\u215b can of chipotles in adobo",
-        "1 tablespoon mayonnaise",
-        "1 tablespoon cotija cheese",
-        "Few sprigs of cilantro"
-    ],
-    "won_round_one": 1,
-    "won_round_two": 1,
-    "won_round_three": 0,
-    "won_round_four": 1,
-    "won_round_five": 0,
-  "won_round_six": 0
+  "cooked_url": "https://cooked.wiki/new/recent/cdd728f4-bed4-41e2-bcc0-b7c0acfd90f1",
+  "source_url": "https://www.chefaaronsanchez.com/post/mexican-street-corn",
+  "title": "Mexican Street Corn",
+  "ingredients": [
+    "1 ear of corn",
+    "? can of chipotles in adobo",
+    "1 tablespoon mayonnaise",
+    "1 tablespoon cotija cheese",
+    "Few sprigs of cilantro"
+  ],
+  "won_round_one": 1,
+  "won_round_two": 1,
+  "won_round_three": 1,
+  "won_round_four": 0,
+  "won_round_five": 0
 }

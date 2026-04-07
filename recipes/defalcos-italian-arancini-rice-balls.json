@@ -7,7 +7,7 @@
     "1 egg yolk",
     "\u00bd cup grated Parmesan",
     "\u00bc cup unsalted butter, melted",
-    "\u2153 pound ground beef",
+    "? pound ground beef",
     "1 medium onion, chopped",
     "\u00bd cup frozen peas, thawed",
     "\u00bd cup tomato sauce, plus more for serving, optional",
@@ -23,6 +23,5 @@
   "won_round_two": 0,
   "won_round_three": 0,
   "won_round_four": 0,
-  "won_round_five": 0,
-  "won_round_six": 0
+  "won_round_five": 0
 }
