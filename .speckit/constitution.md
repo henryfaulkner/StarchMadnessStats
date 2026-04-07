@@ -29,8 +29,9 @@ Recipe JSON files must contain:
 - `ethnic_origin`: Cultural/regional origin of the dish
 - `ingredients`: List of ingredients
 - `won_round_one` through `won_round_five`: Binary (0/1) indicating tournament round wins
-- `is_celebrity_author`: Boolean indicating if the recipe was written by a celebrity
-- `round_votes`: Array of vote counts for each round (votes in round_one, round_two, etc.)
+- `written_by_celebrity_author`: Boolean indicating if the recipe was written by a celebrity
+- `vote_count_round_one` through `vote_count_round_five`: Vote counts for each round (integers, may be null)
+- `vote_percentage_round_one` through `vote_percentage_round_five`: Vote percentages for each round (floats, may be null)
 - `cooked_url`: Link to recipe on cooked.wiki (optional)
 - `source_url`: Original recipe source URL (optional)
 

@@ -40,12 +40,12 @@ The Python notebook performs the following:
 - **Chart Type:** Pie Chart
 
 ### 7. Round Voting Patterns
-- **Chart Type:** Line or Bar chart
-- **Description:** Show vote counts per round to understand voting trends across the tournament
+- **Chart Type:** Line chart
+- **Description:** Show vote counts and/or percentages per round to understand voting trends across the tournament
 
 ### 8. Celebrity Author Performance
-- **Chart Type:** Bar chart or comparison chart
-- **Description:** Compare performance of celebrity-authored recipes vs non-celebrity recipes
+- **Chart Type:** Side-by-side box plot
+- **Description:** Compare score distributions (median, quartiles, outliers) between celebrity-authored and non-celebrity recipes to see if there's a "celebrity effect" on consistency and performance
 
 ## User Stories
 
@@ -74,7 +74,8 @@ Recipe JSON files must contain:
 - `ethnic_origin`: Cultural/regional origin (string)
 - `ingredients`: List of ingredients (array of strings)
 - `won_round_one` through `won_round_five`: Binary (0/1) indicating tournament round wins (integers)
-- `is_celebrity_author`: Boolean indicating if recipe was written by a celebrity
-- `round_votes`: Array of vote counts for each round (integers)
+- `written_by_celebrity_author`: Boolean indicating if recipe was written by a celebrity
+- `vote_count_round_one` through `vote_count_round_five`: Vote counts for each round (integers, may be null)
+- `vote_percentage_round_one` through `vote_percentage_round_five`: Vote percentages for each round (floats, may be null)
 - `cooked_url`: Link to recipe on cooked.wiki (optional string)
 - `source_url`: Original recipe source URL (optional string)
