@@ -21,7 +21,8 @@ description: Scrape a recipe from cooked.wiki and create a JSON file in the reci
      "won_round_two": 0,
      "won_round_three": 0,
      "won_round_four": 0,
-     "won_round_five": 0
+     "won_round_five": 0,
+     "tournament_score": 0
    }
    ```
 
