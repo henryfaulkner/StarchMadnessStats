@@ -17,6 +17,19 @@
     "3 fresh basil leaves",
     "1 tbsp fresh oregano leaves, chopped, or 1 teaspoon dried"
   ],
+  "normalized_ingredients": [
+    "Oil",
+    "Stewing beef",
+    "Spareribs",
+    "Onion",
+    "Garlic",
+    "Dry red wine",
+    "Tomato paste",
+    "Water",
+    "Whole plum tomatoes",
+    "Fresh Herbs",
+    "Fresh Herbs"
+  ],
   "won_round_one": 1,
   "won_round_two": 1,
   "won_round_three": 0,

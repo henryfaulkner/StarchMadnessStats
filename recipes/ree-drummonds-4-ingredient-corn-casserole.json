@@ -10,6 +10,12 @@
     "Butter",
     "Corn milk"
   ],
+  "normalized_ingredients": [
+    "Corn",
+    "Cream",
+    "Butter",
+    "Corn milk"
+  ],
   "won_round_one": 0,
   "won_round_two": 0,
   "won_round_three": 0,

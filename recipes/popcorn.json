@@ -9,6 +9,11 @@
     "Butter",
     "Salt"
   ],
+  "normalized_ingredients": [
+    "Corn",
+    "Butter",
+    "Salt"
+  ],
   "won_round_one": 0,
   "won_round_two": 0,
   "won_round_three": 0,

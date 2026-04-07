@@ -7,9 +7,16 @@
   "ingredients": [
     "2 pounds (about 4) baking potatoes, like russets",
     "1 teaspoon salt",
-    "\u00bd teaspoon baking powder",
+    "½ teaspoon baking powder",
     "1 egg white",
-    "1 \u00bd cups unbleached all-purpose flour"
+    "1 ½ cups unbleached all-purpose flour"
+  ],
+  "normalized_ingredients": [
+    "Potato",
+    "Salt",
+    "Baking powder",
+    "Egg",
+    "Flour"
   ],
   "won_round_one": 0,
   "won_round_two": 0,

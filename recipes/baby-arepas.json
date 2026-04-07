@@ -10,11 +10,24 @@
     "Kosher salt and freshly ground black pepper",
     "4 ounces Mexican chorizo, casing removed",
     "4 ounces Muenster cheese, shredded",
-    "\u00bc cup mayonnaise",
+    "¼ cup mayonnaise",
     "2 teaspoons chipotle adobo sauce",
-    "\u00bd lime, juiced",
+    "½ lime, juiced",
     "1 avocado, diced",
-    "\u00bc cup lightly packed fresh cilantro leaves and tender stems, chopped"
+    "¼ cup lightly packed fresh cilantro leaves and tender stems, chopped"
+  ],
+  "normalized_ingredients": [
+    "Cornmeal",
+    "Oil",
+    "Salt",
+    "Pepper",
+    "Chorizo",
+    "Cheese",
+    "Mayonnaise",
+    "Chipotle adobo sauce",
+    "Lime",
+    "Avocado",
+    "Cilantro"
   ],
   "won_round_one": 1,
   "won_round_two": 1,

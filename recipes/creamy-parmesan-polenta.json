@@ -11,8 +11,18 @@
     "1 tablespoon kosher salt",
     "1 teaspoon freshly ground black pepper",
     "1 cup freshly grated Parmesan cheese, plus extra for serving",
-    "\u00bc cup creme fraiche",
-    "2 tablespoons (\u00bc stick) unsalted butter"
+    "¼ cup creme fraiche",
+    "2 tablespoons (¼ stick) unsalted butter"
+  ],
+  "normalized_ingredients": [
+    "Stock",
+    "Garlic",
+    "Cornmeal",
+    "Salt",
+    "Pepper",
+    "Cheese",
+    "Creme Fraiche",
+    "Butter"
   ],
   "won_round_one": 0,
   "won_round_two": 0,

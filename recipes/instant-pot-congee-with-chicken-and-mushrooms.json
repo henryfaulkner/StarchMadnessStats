@@ -15,6 +15,17 @@
     "3 cups shredded rotisserie chicken (about 12 ounces)",
     "Soy sauce, for serving"
   ],
+  "normalized_ingredients": [
+    "Stock",
+    "Rice",
+    "Ginger",
+    "Onion",
+    "Salt",
+    "Oil",
+    "Mushrooms",
+    "Chicken",
+    "Soy sauce"
+  ],
   "won_round_one": 1,
   "won_round_two": 0,
   "won_round_three": 0,

@@ -5,11 +5,18 @@
   "ethnic_origin": "Indian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "? cup ghee (clarified butter, 75 grams, not melted)",
-    "\u00bd cup atta (whole wheat flour, 75-80 grams)",
+    "½ cup ghee (clarified butter, 75 grams, not melted)",
+    "½ cup atta (whole wheat flour, 75-80 grams)",
     "1 cup water (8 oz)",
-    "\u00bd cup granulated white sugar (100 grams)",
+    "½ cup granulated white sugar (100 grams)",
     "Pinch green cardamom powder (optional)"
+  ],
+  "normalized_ingredients": [
+    "Ghee",
+    "Atta",
+    "Water",
+    "Sugar",
+    "Cardamom"
   ],
   "won_round_one": 0,
   "won_round_two": 0,

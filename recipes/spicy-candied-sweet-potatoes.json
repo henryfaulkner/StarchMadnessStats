@@ -7,13 +7,24 @@
   "ingredients": [
     "Canola oil cooking spray",
     "2 29-ounce cans cut sweet potatoes, drained",
-    "\u00c2\u00bd cup pecans, finely chopped",
+    "½ cup pecans, finely chopped",
     "6 tablespoons unsalted butter, cut into small pieces",
     "2 tablespoons frozen orange juice concentrate, thawed",
-    "\u00e2\u2026\u201c cup packed brown sugar",
+    "⅔ cup packed brown sugar",
     "2 teaspoons pumpkin pie spice",
-    "\u00c2\u00bc teaspoon cayenne pepper",
+    "¼ teaspoon cayenne pepper",
     "3 cups miniature marshmallows"
+  ],
+  "normalized_ingredients": [
+    "Oil",
+    "Potato",
+    "Pecans",
+    "Butter",
+    "Orange juice",
+    "Sugar",
+    "Pumpkin pie spice",
+    "Cayenne pepper",
+    "Marshmallows"
   ],
   "won_round_one": 0,
   "won_round_two": 0,

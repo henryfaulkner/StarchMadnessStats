@@ -5,14 +5,24 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "\u00bd cup large pearl tapioca",
+    "½ cup large pearl tapioca",
     "2 cups cold water",
-    "2 \u00bd cups whole milk",
-    "\u00bd cup heavy cream",
+    "2 ½ cups whole milk",
+    "½ cup heavy cream",
     "Pinch kosher salt",
     "1 large egg yolk",
-    "? cup sugar",
+    "½ cup sugar",
     "1 lemon, zested"
+  ],
+  "normalized_ingredients": [
+    "Tapioca",
+    "Water",
+    "Milk",
+    "Heavy cream",
+    "Salt",
+    "Egg",
+    "Sugar",
+    "Lemon"
   ],
   "won_round_one": 0,
   "won_round_two": 0,
