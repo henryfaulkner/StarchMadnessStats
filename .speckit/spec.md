@@ -39,6 +39,14 @@ The Python notebook performs the following:
 ### 6. Number of Times a Particular Ethnic Origin Appeared in Dataset
 - **Chart Type:** Pie Chart
 
+### 7. Round Voting Patterns
+- **Chart Type:** Line or Bar chart
+- **Description:** Show vote counts per round to understand voting trends across the tournament
+
+### 8. Celebrity Author Performance
+- **Chart Type:** Bar chart or comparison chart
+- **Description:** Compare performance of celebrity-authored recipes vs non-celebrity recipes
+
 ## User Stories
 
 1. As a tournament organizer, I want to load all recipe data from JSON files so that I can perform analysis
@@ -46,15 +54,18 @@ The Python notebook performs the following:
 3. As a tournament organizer, I want to analyze performance by ingredient type so that I can identify popular ingredients
 4. As a tournament organizer, I want to analyze performance by ethnic origin so that I can understand cuisine representation
 5. As a tournament organizer, I want to visualize round-by-round progression so that I can tell the tournament story
+6. As a tournament organizer, I want to analyze voting patterns across rounds so that I can understand voter engagement
+7. As a tournament organizer, I want to compare celebrity-authored recipes against others so that I can identify any "celebrity effect"
 
 ## Acceptance Criteria
 
 1. All JSON files in `/recipes` directory are correctly parsed
 2. Tournament scores are calculated correctly using the specified formula
-3. All 6 chart types are generated with correct data
+3. All 8 chart types are generated with correct data
 4. Charts are properly labeled with titles and axes
 5. Data is sorted according to each chart's requirements
 6. Notebook runs without errors and produces reproducible results
+7. Celebrity author and voting pattern data is correctly extracted and visualized
 
 ## Data Schema
 
@@ -63,5 +74,7 @@ Recipe JSON files must contain:
 - `ethnic_origin`: Cultural/regional origin (string)
 - `ingredients`: List of ingredients (array of strings)
 - `won_round_one` through `won_round_five`: Binary (0/1) indicating tournament round wins (integers)
+- `is_celebrity_author`: Boolean indicating if recipe was written by a celebrity
+- `round_votes`: Array of vote counts for each round (integers)
 - `cooked_url`: Link to recipe on cooked.wiki (optional string)
 - `source_url`: Original recipe source URL (optional string)

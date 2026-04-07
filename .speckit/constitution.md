@@ -29,6 +29,8 @@ Recipe JSON files must contain:
 - `ethnic_origin`: Cultural/regional origin of the dish
 - `ingredients`: List of ingredients
 - `won_round_one` through `won_round_five`: Binary (0/1) indicating tournament round wins
+- `is_celebrity_author`: Boolean indicating if the recipe was written by a celebrity
+- `round_votes`: Array of vote counts for each round (votes in round_one, round_two, etc.)
 - `cooked_url`: Link to recipe on cooked.wiki (optional)
 - `source_url`: Original recipe source URL (optional)
 
@@ -39,4 +41,6 @@ Recipe JSON files must contain:
 3. **Ingredient Performance Analysis** - Analyze how different ingredients perform
 4. **Ethnic Origin Analysis** - Performance breakdown by cuisine type
 5. **Round-by-Round Progression** - Track how recipes advance through tournament rounds
-6. **Data Storytelling** - Generate insights and narratives from the tournament data
+6. **Round Voting Patterns** - Analyze vote counts per round to understand voting trends
+7. **Celebrity Author Analysis** - Compare performance of celebrity-authored recipes vs others
+8. **Data Storytelling** - Generate insights and narratives from the tournament data
