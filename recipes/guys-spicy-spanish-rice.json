@@ -28,5 +28,15 @@
   "won_round_two": 1,
   "won_round_three": 1,
   "won_round_four": 1,
-  "won_round_five": 0
+  "won_round_five": 0,
+  "votes_round_one": 220,
+  "votes_round_two": 107,
+  "votes_round_three": 113,
+  "votes_round_four": null,
+  "votes_round_five": 65,
+  "vote_pct_round_one": 81.8,
+  "vote_pct_round_two": 54.3,
+  "vote_pct_round_three": 56.2,
+  "vote_pct_round_four": null,
+  "vote_pct_round_five": 49.2
 }
