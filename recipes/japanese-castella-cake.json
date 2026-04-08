@@ -5,13 +5,34 @@
   "ethnic_origin": "Japanese",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2 Tbsp water",
-    "3 Tbsp honey",
-    "1 Tbsp mizuame syrup (glutinous starch syrup)",
-    "100 g bread flour",
-    "3 large eggs (50 g each w/o shell) (at room temperature—very important!)",
-    "100 g sugar (½ cup)",
-    "½ Tbsp white sparkling sugar"
+    {
+      "description": "2 Tbsp water",
+      "cost": 0.0
+    },
+    {
+      "description": "3 Tbsp honey",
+      "cost": 0.45
+    },
+    {
+      "description": "1 Tbsp mizuame syrup (glutinous starch syrup)",
+      "cost": 0.5
+    },
+    {
+      "description": "100 g bread flour",
+      "cost": 0.66
+    },
+    {
+      "description": "3 large eggs (50 g each w/o shell) (at room temperature—very important!)",
+      "cost": 0.9
+    },
+    {
+      "description": "100 g sugar (½ cup)",
+      "cost": 0.55
+    },
+    {
+      "description": "½ Tbsp white sparkling sugar",
+      "cost": 0.03
+    }
   ],
   "normalized_ingredients": [
     "Water",
@@ -36,5 +57,6 @@
   "vote_percentage_round_two": 34.8,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 3.09
 }

@@ -5,11 +5,26 @@
   "ethnic_origin": "Italian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2 pounds (about 4) baking potatoes, like russets",
-    "1 teaspoon salt",
-    "½ teaspoon baking powder",
-    "1 egg white",
-    "1 ½ cups unbleached all-purpose flour"
+    {
+      "description": "2 pounds (about 4) baking potatoes, like russets",
+      "cost": 1.98
+    },
+    {
+      "description": "1 teaspoon salt",
+      "cost": 0.0
+    },
+    {
+      "description": "½ teaspoon baking powder",
+      "cost": 0.05
+    },
+    {
+      "description": "1 egg white",
+      "cost": 0.3
+    },
+    {
+      "description": "1 ½ cups unbleached all-purpose flour",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Potato",
@@ -32,5 +47,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 2.83
 }

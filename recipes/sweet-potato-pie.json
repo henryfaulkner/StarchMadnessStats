@@ -5,21 +5,66 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2 pounds sweet potatoes",
-    "1 disk Carla's Classic Pie Dough, fitted into a deep-dish pie plate and frozen",
-    "½ teaspoon ground cinnamon",
-    "½ teaspoon ground ginger",
-    "¼ teaspoon ground allspice",
-    "¼ teaspoon freshly grated nutmeg",
-    "½ teaspoon salt",
-    "5 tablespoons unsalted butter, softened",
-    "½ cup packed light brown sugar, plus more if needed",
-    "1 cup evaporated milk",
-    "2 large eggs",
-    "1 tablespoon sugar",
-    "½ teaspoon table salt",
-    "2 ¼ cups all-purpose flour, plus more for rolling",
-    "1 cup (8 ounces) cold unsalted butter, cut into ½-inch cubes"
+    {
+      "description": "2 pounds sweet potatoes",
+      "cost": 1.98
+    },
+    {
+      "description": "1 disk Carla's Classic Pie Dough, fitted into a deep-dish pie plate and frozen",
+      "cost": 0.5
+    },
+    {
+      "description": "½ teaspoon ground cinnamon",
+      "cost": 0.05
+    },
+    {
+      "description": "½ teaspoon ground ginger",
+      "cost": 0.25
+    },
+    {
+      "description": "¼ teaspoon ground allspice",
+      "cost": 0.05
+    },
+    {
+      "description": "¼ teaspoon freshly grated nutmeg",
+      "cost": 0.05
+    },
+    {
+      "description": "½ teaspoon salt",
+      "cost": 0.0
+    },
+    {
+      "description": "5 tablespoons unsalted butter, softened",
+      "cost": 0.21
+    },
+    {
+      "description": "½ cup packed light brown sugar, plus more if needed",
+      "cost": 0.42
+    },
+    {
+      "description": "1 cup evaporated milk",
+      "cost": 0.5
+    },
+    {
+      "description": "2 large eggs",
+      "cost": 0.6
+    },
+    {
+      "description": "1 tablespoon sugar",
+      "cost": 0.03
+    },
+    {
+      "description": "½ teaspoon table salt",
+      "cost": 0.0
+    },
+    {
+      "description": "2 ¼ cups all-purpose flour, plus more for rolling",
+      "cost": 1.0
+    },
+    {
+      "description": "1 cup (8 ounces) cold unsalted butter, cut into ½-inch cubes",
+      "cost": 0.28
+    }
   ],
   "normalized_ingredients": [
     "Potato",
@@ -50,5 +95,6 @@
   "vote_percentage_round_two": 45.7,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 5.92
 }

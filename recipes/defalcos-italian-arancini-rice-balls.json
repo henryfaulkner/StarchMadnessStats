@@ -5,21 +5,66 @@
   "ethnic_origin": "Italian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2 cups uncooked Arborio rice",
-    "1 egg yolk",
-    "½ cup grated Parmesan",
-    "¼ cup unsalted butter, melted",
-    "½ pound ground beef",
-    "1 medium onion, chopped",
-    "½ cup frozen peas, thawed",
-    "½ cup tomato sauce, plus more for serving, optional",
-    "¼ teaspoon salt",
-    "¼ teaspoon pepper",
-    "½ cup Italian Fontina cheese, shredded",
-    "Oil, for deep-frying",
-    "1 ½ cups seasoned bread crumbs",
-    "2 egg whites",
-    "Fresh Italian flat-leaf parsley, for garnish"
+    {
+      "description": "2 cups uncooked Arborio rice",
+      "cost": 0.67
+    },
+    {
+      "description": "1 egg yolk",
+      "cost": 0.3
+    },
+    {
+      "description": "½ cup grated Parmesan",
+      "cost": 6.0
+    },
+    {
+      "description": "¼ cup unsalted butter, melted",
+      "cost": 0.67
+    },
+    {
+      "description": "½ pound ground beef",
+      "cost": 8.0
+    },
+    {
+      "description": "1 medium onion, chopped",
+      "cost": 0.01
+    },
+    {
+      "description": "½ cup frozen peas, thawed",
+      "cost": 0.5
+    },
+    {
+      "description": "½ cup tomato sauce, plus more for serving, optional",
+      "cost": 0.15
+    },
+    {
+      "description": "¼ teaspoon salt",
+      "cost": 0.0
+    },
+    {
+      "description": "¼ teaspoon pepper",
+      "cost": 0.05
+    },
+    {
+      "description": "½ cup Italian Fontina cheese, shredded",
+      "cost": 4.0
+    },
+    {
+      "description": "Oil, for deep-frying",
+      "cost": 1.99
+    },
+    {
+      "description": "1 ½ cups seasoned bread crumbs",
+      "cost": 0.25
+    },
+    {
+      "description": "2 egg whites",
+      "cost": 0.6
+    },
+    {
+      "description": "Fresh Italian flat-leaf parsley, for garnish",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Rice",
@@ -52,5 +97,6 @@
   "vote_percentage_round_two": 45.7,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 23.69
 }

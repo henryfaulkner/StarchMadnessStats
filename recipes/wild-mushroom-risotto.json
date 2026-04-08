@@ -5,16 +5,46 @@
   "ethnic_origin": "Italian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2 ounces dried porcinis (look for these in produce department)",
-    "1 quart mushroom broth or vegetable stock",
-    "1 tablespoon (1 turn around the pan) extra-virgin olive oil",
-    "1 tablespoon butter",
-    "1 shallot, finely chopped",
-    "1 cup arborio rice",
-    "½ cup dry Sherry",
-    "4 sprigs fresh thyme, leaves chopped to about 2 tablespoons",
-    "½ cup (3 handfuls) grated Parmigiano-Reggiano",
-    "Coarse salt and pepper"
+    {
+      "description": "2 ounces dried porcinis (look for these in produce department)",
+      "cost": 10
+    },
+    {
+      "description": "1 quart mushroom broth or vegetable stock",
+      "cost": 0.0
+    },
+    {
+      "description": "1 tablespoon (1 turn around the pan) extra-virgin olive oil",
+      "cost": 0.99
+    },
+    {
+      "description": "1 tablespoon butter",
+      "cost": 0.04
+    },
+    {
+      "description": "1 shallot, finely chopped",
+      "cost": 0.3
+    },
+    {
+      "description": "1 cup arborio rice",
+      "cost": 0.33
+    },
+    {
+      "description": "½ cup dry Sherry",
+      "cost": 0.5
+    },
+    {
+      "description": "4 sprigs fresh thyme, leaves chopped to about 2 tablespoons",
+      "cost": 0.6
+    },
+    {
+      "description": "½ cup (3 handfuls) grated Parmigiano-Reggiano",
+      "cost": 2
+    },
+    {
+      "description": "Coarse salt and pepper",
+      "cost": 0.01
+    }
   ],
   "normalized_ingredients": [
     "Mushrooms",
@@ -43,5 +73,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 13.77
 }

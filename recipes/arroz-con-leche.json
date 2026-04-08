@@ -5,16 +5,46 @@
   "ethnic_origin": "Latin American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 cup long-grain white rice",
-    "2 cinnamon sticks",
-    "1 tablespoon lemon zest",
-    "3 whole cloves",
-    "4 cups water",
-    "1 egg",
-    "3 cups whole milk",
-    "1 (12-ounce) can sweetened condensed milk",
-    "1 tablespoon vanilla extract",
-    "½ cup raisins, optional"
+    {
+      "description": "1 cup long-grain white rice",
+      "cost": 0.33
+    },
+    {
+      "description": "2 cinnamon sticks",
+      "cost": 0.1
+    },
+    {
+      "description": "1 tablespoon lemon zest",
+      "cost": 0.5
+    },
+    {
+      "description": "3 whole cloves",
+      "cost": 1.5
+    },
+    {
+      "description": "4 cups water",
+      "cost": 0.0
+    },
+    {
+      "description": "1 egg",
+      "cost": 0.3
+    },
+    {
+      "description": "3 cups whole milk",
+      "cost": 0.5
+    },
+    {
+      "description": "1 (12-ounce) can sweetened condensed milk",
+      "cost": 0.5
+    },
+    {
+      "description": "1 tablespoon vanilla extract",
+      "cost": 0.3
+    },
+    {
+      "description": "½ cup raisins, optional",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Rice",
@@ -41,5 +71,6 @@
   "vote_percentage_round_two": 53.3,
   "vote_percentage_round_three": 43.8,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 5.05
 }

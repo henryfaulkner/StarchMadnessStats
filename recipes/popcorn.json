@@ -5,9 +5,18 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "Corn",
-    "Butter",
-    "Salt"
+    {
+      "description": "Corn",
+      "cost": 0.02
+    },
+    {
+      "description": "Butter",
+      "cost": 0.04
+    },
+    {
+      "description": "Salt",
+      "cost": 0.01
+    }
   ],
   "normalized_ingredients": [
     "Corn",
@@ -28,5 +37,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 0.07
 }

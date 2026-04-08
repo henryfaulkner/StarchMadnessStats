@@ -5,13 +5,34 @@
   "ethnic_origin": "French-American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "6 T. canola oil, plus more for greasing",
-    "3 lg. onions (about 2¼ pounds), quartered, thinly sliced",
-    "Kosher salt and freshly ground black pepper",
-    "2 garlic cloves, minced",
-    "6 to 8 Yukon Gold potatoes (about 2½ pounds), peeled, very thinly sliced",
-    "12 oz. Gruyere cheese, shredded",
-    "2½ c. half-and-half"
+    {
+      "description": "6 T. canola oil, plus more for greasing",
+      "cost": 0.99
+    },
+    {
+      "description": "3 lg. onions (about 2¼ pounds), quartered, thinly sliced",
+      "cost": 4.5
+    },
+    {
+      "description": "Kosher salt and freshly ground black pepper",
+      "cost": 0.01
+    },
+    {
+      "description": "2 garlic cloves, minced",
+      "cost": 1.0
+    },
+    {
+      "description": "6 to 8 Yukon Gold potatoes (about 2½ pounds), peeled, very thinly sliced",
+      "cost": 6.0
+    },
+    {
+      "description": "12 oz. Gruyere cheese, shredded",
+      "cost": 6.0
+    },
+    {
+      "description": "2½ c. half-and-half",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Oil",
@@ -37,5 +58,6 @@
   "vote_percentage_round_two": 42.6,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 19.0
 }

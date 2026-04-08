@@ -5,13 +5,34 @@
   "ethnic_origin": "Brazilian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 cup grated Parmesan cheese",
-    "1 10oz round of Queso Fresco, crumbled",
-    "1 cup full fat milk",
-    "¼ cup vegetable oil (plus 1 Tbsp for oiling your hands)",
-    "2 eggs",
-    "1 lb tapioca flour (also known as tapioca starch)",
-    "2 tsp kosher salt"
+    {
+      "description": "1 cup grated Parmesan cheese",
+      "cost": 4.0
+    },
+    {
+      "description": "1 10oz round of Queso Fresco, crumbled",
+      "cost": 0.25
+    },
+    {
+      "description": "1 cup full fat milk",
+      "cost": 0.5
+    },
+    {
+      "description": "¼ cup vegetable oil (plus 1 Tbsp for oiling your hands)",
+      "cost": 3.99
+    },
+    {
+      "description": "2 eggs",
+      "cost": 0.6
+    },
+    {
+      "description": "1 lb tapioca flour (also known as tapioca starch)",
+      "cost": 1.0
+    },
+    {
+      "description": "2 tsp kosher salt",
+      "cost": 0.01
+    }
   ],
   "normalized_ingredients": [
     "Cheese",
@@ -36,5 +57,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 10.35
 }

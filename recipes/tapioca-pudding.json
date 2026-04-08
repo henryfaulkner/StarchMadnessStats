@@ -5,14 +5,38 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "½ cup large pearl tapioca",
-    "2 cups cold water",
-    "2 ½ cups whole milk",
-    "½ cup heavy cream",
-    "Pinch kosher salt",
-    "1 large egg yolk",
-    "½ cup sugar",
-    "1 lemon, zested"
+    {
+      "description": "½ cup large pearl tapioca",
+      "cost": 0.5
+    },
+    {
+      "description": "2 cups cold water",
+      "cost": 0.0
+    },
+    {
+      "description": "2 ½ cups whole milk",
+      "cost": 0.5
+    },
+    {
+      "description": "½ cup heavy cream",
+      "cost": 0.5
+    },
+    {
+      "description": "Pinch kosher salt",
+      "cost": 0.01
+    },
+    {
+      "description": "1 large egg yolk",
+      "cost": 0.3
+    },
+    {
+      "description": "½ cup sugar",
+      "cost": 0.42
+    },
+    {
+      "description": "1 lemon, zested",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Tapioca",
@@ -38,5 +62,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 2.73
 }

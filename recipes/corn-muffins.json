@@ -5,14 +5,38 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "3 cups all-purpose flour",
-    "1 cup sugar",
-    "1 cup medium cornmeal",
-    "2 tablespoons baking powder",
-    "1½ teaspoons salt",
-    "1½ cups whole milk",
-    "½ pound unsalted butter, melted and cooled",
-    "2 extra-large eggs"
+    {
+      "description": "3 cups all-purpose flour",
+      "cost": 1.5
+    },
+    {
+      "description": "1 cup sugar",
+      "cost": 0.42
+    },
+    {
+      "description": "1 cup medium cornmeal",
+      "cost": 0.42
+    },
+    {
+      "description": "2 tablespoons baking powder",
+      "cost": 0.3
+    },
+    {
+      "description": "1½ teaspoons salt",
+      "cost": 0.0
+    },
+    {
+      "description": "1½ cups whole milk",
+      "cost": 0.5
+    },
+    {
+      "description": "½ pound unsalted butter, melted and cooled",
+      "cost": 2.0
+    },
+    {
+      "description": "2 extra-large eggs",
+      "cost": 0.6
+    }
   ],
   "normalized_ingredients": [
     "Flour",
@@ -38,5 +62,6 @@
   "vote_percentage_round_two": 36.2,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 5.74
 }

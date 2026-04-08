@@ -5,16 +5,46 @@
   "ethnic_origin": "Thai",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "250 grams (9 ounces) wide rice noodles",
-    "2 tablespoons oyster sauce",
-    "3 tablespoons reduced salt soy sauce",
-    "2 teaspoons white wine vinegar",
-    "2 teaspoons confectioners' sugar",
-    "1 tablespoon sunflower oil",
-    "2 garlic cloves, crushed",
-    "4 skinless chicken thigh fillets, cut into 1-centimeter (½-inch) dice",
-    "320 grams (11 ¼ ounces) broccolini, stems cut into thirds",
-    "1 large free-range egg"
+    {
+      "description": "250 grams (9 ounces) wide rice noodles",
+      "cost": 0.5
+    },
+    {
+      "description": "2 tablespoons oyster sauce",
+      "cost": 0.3
+    },
+    {
+      "description": "3 tablespoons reduced salt soy sauce",
+      "cost": 0.3
+    },
+    {
+      "description": "2 teaspoons white wine vinegar",
+      "cost": 0.5
+    },
+    {
+      "description": "2 teaspoons confectioners' sugar",
+      "cost": 0.02
+    },
+    {
+      "description": "1 tablespoon sunflower oil",
+      "cost": 0.99
+    },
+    {
+      "description": "2 garlic cloves, crushed",
+      "cost": 1.0
+    },
+    {
+      "description": "4 skinless chicken thigh fillets, cut into 1-centimeter (½-inch) dice",
+      "cost": 8.5
+    },
+    {
+      "description": "320 grams (11 ¼ ounces) broccolini, stems cut into thirds",
+      "cost": 0.5
+    },
+    {
+      "description": "1 large free-range egg",
+      "cost": 0.3
+    }
   ],
   "normalized_ingredients": [
     "Noodles",
@@ -42,5 +72,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 12.91
 }

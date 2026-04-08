@@ -5,17 +5,50 @@
   "ethnic_origin": "Italian-American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2½ cups all-purpose flour",
-    "1 teaspoon baking powder",
-    "¼ teaspoon baking soda",
-    "2 sticks (1 cup) salted butter, chilled, cut in to ½-inch cubes, plus additional for greasing the pan",
-    "¾ cup packed light brown sugar",
-    "½ cup granulated sugar",
-    "1 teaspoon vanilla extract",
-    "2 large eggs, beaten",
-    "½ cup toasted hazelnuts, lightly crushed",
-    "2 cups dark chocolate chunks",
-    "2 pints of your favorite vanilla ice cream"
+    {
+      "description": "2½ cups all-purpose flour",
+      "cost": 1.0
+    },
+    {
+      "description": "1 teaspoon baking powder",
+      "cost": 0.05
+    },
+    {
+      "description": "¼ teaspoon baking soda",
+      "cost": 0.05
+    },
+    {
+      "description": "2 sticks (1 cup) salted butter, chilled, cut in to ½-inch cubes, plus additional for greasing the pan",
+      "cost": 1.33
+    },
+    {
+      "description": "¾ cup packed light brown sugar",
+      "cost": 0.42
+    },
+    {
+      "description": "½ cup granulated sugar",
+      "cost": 0.42
+    },
+    {
+      "description": "1 teaspoon vanilla extract",
+      "cost": 0.1
+    },
+    {
+      "description": "2 large eggs, beaten",
+      "cost": 0.6
+    },
+    {
+      "description": "½ cup toasted hazelnuts, lightly crushed",
+      "cost": 0.5
+    },
+    {
+      "description": "2 cups dark chocolate chunks",
+      "cost": 2.0
+    },
+    {
+      "description": "2 pints of your favorite vanilla ice cream",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Flour",
@@ -44,5 +77,6 @@
   "vote_percentage_round_two": 65.2,
   "vote_percentage_round_three": 51.5,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 50.8
+  "vote_percentage_round_five": 50.8,
+  "total_cost": 6.97
 }

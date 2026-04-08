@@ -5,16 +5,46 @@
   "ethnic_origin": "Venezuelan",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 cup pre-cooked yellow cornmeal, such as P.A.N.",
-    "3 tablespoons olive oil",
-    "Kosher salt and freshly ground black pepper",
-    "4 ounces Mexican chorizo, casing removed",
-    "4 ounces Muenster cheese, shredded",
-    "¼ cup mayonnaise",
-    "2 teaspoons chipotle adobo sauce",
-    "½ lime, juiced",
-    "1 avocado, diced",
-    "¼ cup lightly packed fresh cilantro leaves and tender stems, chopped"
+    {
+      "description": "1 cup pre-cooked yellow cornmeal, such as P.A.N.",
+      "cost": 0.42
+    },
+    {
+      "description": "3 tablespoons olive oil",
+      "cost": 0.97
+    },
+    {
+      "description": "Kosher salt and freshly ground black pepper",
+      "cost": 0.01
+    },
+    {
+      "description": "4 ounces Mexican chorizo, casing removed",
+      "cost": 2.0
+    },
+    {
+      "description": "4 ounces Muenster cheese, shredded",
+      "cost": 2.0
+    },
+    {
+      "description": "¼ cup mayonnaise",
+      "cost": 0.5
+    },
+    {
+      "description": "2 teaspoons chipotle adobo sauce",
+      "cost": 0.2
+    },
+    {
+      "description": "½ lime, juiced",
+      "cost": 0.5
+    },
+    {
+      "description": "1 avocado, diced",
+      "cost": 1.5
+    },
+    {
+      "description": "¼ cup lightly packed fresh cilantro leaves and tender stems, chopped",
+      "cost": 1.5
+    }
   ],
   "normalized_ingredients": [
     "Cornmeal",
@@ -43,5 +73,6 @@
   "vote_percentage_round_two": 63.8,
   "vote_percentage_round_three": 45.8,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 9.6
 }

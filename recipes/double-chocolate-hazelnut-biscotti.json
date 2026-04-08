@@ -5,21 +5,66 @@
   "ethnic_origin": "Italian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1¾ cups all-purpose flour",
-    "¼ cup cocoa powder",
-    "2 tablespoons espresso powder",
-    "¾ teaspoon baking powder",
-    "¾ teaspoon kosher salt",
-    "½ teaspoon baking soda",
-    "6 tablespoons unsalted butter, at room temperature",
-    "1 cup granulated sugar",
-    "2 large eggs, at room temperature, plus 1 large egg, beaten (for egg wash)",
-    "1 teaspoon vanilla extract",
-    "1 cup blanched hazelnuts, lightly toasted",
-    "½ cup mini semisweet chocolate chips",
-    "2 tablespoons turbinado or demerara sugar",
-    "4 ounces dark chocolate, chopped",
-    "1 tablespoon coconut oil"
+    {
+      "description": "1¾ cups all-purpose flour",
+      "cost": 0.5
+    },
+    {
+      "description": "¼ cup cocoa powder",
+      "cost": 0.15
+    },
+    {
+      "description": "2 tablespoons espresso powder",
+      "cost": 0.5
+    },
+    {
+      "description": "¾ teaspoon baking powder",
+      "cost": 0.05
+    },
+    {
+      "description": "¾ teaspoon kosher salt",
+      "cost": 0.0
+    },
+    {
+      "description": "½ teaspoon baking soda",
+      "cost": 0.05
+    },
+    {
+      "description": "6 tablespoons unsalted butter, at room temperature",
+      "cost": 0.25
+    },
+    {
+      "description": "1 cup granulated sugar",
+      "cost": 0.42
+    },
+    {
+      "description": "2 large eggs, at room temperature, plus 1 large egg, beaten (for egg wash)",
+      "cost": 0.6
+    },
+    {
+      "description": "1 teaspoon vanilla extract",
+      "cost": 0.1
+    },
+    {
+      "description": "1 cup blanched hazelnuts, lightly toasted",
+      "cost": 0.5
+    },
+    {
+      "description": "½ cup mini semisweet chocolate chips",
+      "cost": 0.67
+    },
+    {
+      "description": "2 tablespoons turbinado or demerara sugar",
+      "cost": 0.05
+    },
+    {
+      "description": "4 ounces dark chocolate, chopped",
+      "cost": 1.5
+    },
+    {
+      "description": "1 tablespoon coconut oil",
+      "cost": 0.99
+    }
   ],
   "normalized_ingredients": [
     "Flour",
@@ -52,5 +97,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 6.33
 }

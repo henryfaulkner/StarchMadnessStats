@@ -5,11 +5,26 @@
   "ethnic_origin": "Middle Eastern",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2 tablespoons butter",
-    "½ cup thin spaghetti, broken into 1 inch pieces, about 1/6 of a 1 pound box of dried pasta",
-    "¾ cup white enriched rice",
-    "1 ½ cups chicken broth or water",
-    "Salt"
+    {
+      "description": "2 tablespoons butter",
+      "cost": 0.08
+    },
+    {
+      "description": "½ cup thin spaghetti, broken into 1 inch pieces, about 1/6 of a 1 pound box of dried pasta",
+      "cost": 0.3
+    },
+    {
+      "description": "¾ cup white enriched rice",
+      "cost": 0.33
+    },
+    {
+      "description": "1 ½ cups chicken broth or water",
+      "cost": 0.25
+    },
+    {
+      "description": "Salt",
+      "cost": 0.01
+    }
   ],
   "normalized_ingredients": [
     "Butter",
@@ -32,5 +47,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 0.97
 }

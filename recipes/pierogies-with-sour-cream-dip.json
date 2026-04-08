@@ -5,28 +5,94 @@
   "ethnic_origin": "Polish",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 cup sour cream",
-    "½ cup mayonnaise",
-    "2 tablespoons chopped fresh dill, plus more for serving",
-    "2 tablespoons chopped fresh parsley",
-    "1 ½ tablespoons fresh lemon juice",
-    "½ teaspoon garlic powder",
-    "½ teaspoon onion powder",
-    "½ teaspoon Worcestershire sauce",
-    "Kosher salt and freshly cracked black pepper",
-    "1 ½ cups all-purpose flour, plus more for dusting",
-    "½ teaspoon kosher salt, plus more for seasoning",
-    "1 large egg, beaten",
-    "½ cup crème fraîche",
-    "2 Yukon gold potatoes, boiled until tender, or leftover mashed potatoes, slightly warm",
-    "½ cup farmer's cheese or ricotta",
-    "½ cup grated sharp white Cheddar",
-    "½ cup yellow onion, cooked until golden and cooled",
-    "½ cup sliced green onions",
-    "Freshly cracked black pepper",
-    "4 tablespoons unsalted butter",
-    "½ cup chopped fresh dill",
-    "1 lemon, juiced"
+    {
+      "description": "1 cup sour cream",
+      "cost": 0.5
+    },
+    {
+      "description": "½ cup mayonnaise",
+      "cost": 0.5
+    },
+    {
+      "description": "2 tablespoons chopped fresh dill, plus more for serving",
+      "cost": 0.6
+    },
+    {
+      "description": "2 tablespoons chopped fresh parsley",
+      "cost": 0.5
+    },
+    {
+      "description": "1 ½ tablespoons fresh lemon juice",
+      "cost": 0.5
+    },
+    {
+      "description": "½ teaspoon garlic powder",
+      "cost": 0.5
+    },
+    {
+      "description": "½ teaspoon onion powder",
+      "cost": 0.5
+    },
+    {
+      "description": "½ teaspoon Worcestershire sauce",
+      "cost": 0.5
+    },
+    {
+      "description": "Kosher salt and freshly cracked black pepper",
+      "cost": 0.01
+    },
+    {
+      "description": "1 ½ cups all-purpose flour, plus more for dusting",
+      "cost": 0.5
+    },
+    {
+      "description": "½ teaspoon kosher salt, plus more for seasoning",
+      "cost": 0.01
+    },
+    {
+      "description": "1 large egg, beaten",
+      "cost": 0.3
+    },
+    {
+      "description": "½ cup crème fraîche",
+      "cost": 1.5
+    },
+    {
+      "description": "2 Yukon gold potatoes, boiled until tender, or leftover mashed potatoes, slightly warm",
+      "cost": 1.98
+    },
+    {
+      "description": "½ cup farmer's cheese or ricotta",
+      "cost": 4.0
+    },
+    {
+      "description": "½ cup grated sharp white Cheddar",
+      "cost": 3.2
+    },
+    {
+      "description": "½ cup yellow onion, cooked until golden and cooled",
+      "cost": 0.25
+    },
+    {
+      "description": "½ cup sliced green onions",
+      "cost": 0.25
+    },
+    {
+      "description": "Freshly cracked black pepper",
+      "cost": 0.05
+    },
+    {
+      "description": "4 tablespoons unsalted butter",
+      "cost": 0.17
+    },
+    {
+      "description": "½ cup chopped fresh dill",
+      "cost": 0.1
+    },
+    {
+      "description": "1 lemon, juiced",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Sour cream",
@@ -65,5 +131,6 @@
   "vote_percentage_round_two": 57.4,
   "vote_percentage_round_three": 71.1,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 16.92
 }

@@ -5,25 +5,82 @@
   "ethnic_origin": "Mexican-American",
   "written_by_celebrity_author": true,
   "ingredients": [
-    "1 red bell pepper",
-    "1 poblano pepper",
-    "1 jalapeno pepper",
-    "1 serrano pepper",
-    "1 ear corn, shucked",
-    "1 tablespoon canola oil",
-    "1 yellow onion, diced, about 1 cup",
-    "½ yellow bell pepper, seeded, ribs removed and diced",
-    "1 chayote squash, peeled, seed removed and diced",
-    "1 teaspoon salt",
-    "1 teaspoon freshly cracked black pepper",
-    "½ teaspoon cayenne pepper",
-    "6 cloves garlic, minced",
-    "2 cups basmati rice",
-    "5 cups chicken stock",
-    "¼ cup roughly chopped Spanish olives",
-    "½ cup canned black beans, rinsed and drained",
-    "½ cup diced tomatoes",
-    "½ cup freshly chopped cilantro leaves"
+    {
+      "description": "1 red bell pepper",
+      "cost": 0.5
+    },
+    {
+      "description": "1 poblano pepper",
+      "cost": 0.5
+    },
+    {
+      "description": "1 jalapeno pepper",
+      "cost": 0.5
+    },
+    {
+      "description": "1 serrano pepper",
+      "cost": 0.5
+    },
+    {
+      "description": "1 ear corn, shucked",
+      "cost": 0.02
+    },
+    {
+      "description": "1 tablespoon canola oil",
+      "cost": 0.99
+    },
+    {
+      "description": "1 yellow onion, diced, about 1 cup",
+      "cost": 0.25
+    },
+    {
+      "description": "½ yellow bell pepper, seeded, ribs removed and diced",
+      "cost": 0.5
+    },
+    {
+      "description": "1 chayote squash, peeled, seed removed and diced",
+      "cost": 0.5
+    },
+    {
+      "description": "1 teaspoon salt",
+      "cost": 0.0
+    },
+    {
+      "description": "1 teaspoon freshly cracked black pepper",
+      "cost": 0.05
+    },
+    {
+      "description": "½ teaspoon cayenne pepper",
+      "cost": 0.05
+    },
+    {
+      "description": "6 cloves garlic, minced",
+      "cost": 3.0
+    },
+    {
+      "description": "2 cups basmati rice",
+      "cost": 0.67
+    },
+    {
+      "description": "5 cups chicken stock",
+      "cost": 1.5
+    },
+    {
+      "description": "¼ cup roughly chopped Spanish olives",
+      "cost": 0.5
+    },
+    {
+      "description": "½ cup canned black beans, rinsed and drained",
+      "cost": 0.5
+    },
+    {
+      "description": "½ cup diced tomatoes",
+      "cost": 0.5
+    },
+    {
+      "description": "½ cup freshly chopped cilantro leaves",
+      "cost": 1.5
+    }
   ],
   "normalized_ingredients": [
     "Red bell pepper",
@@ -60,5 +117,6 @@
   "vote_percentage_round_two": 54.3,
   "vote_percentage_round_three": 56.2,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 49.2
+  "vote_percentage_round_five": 49.2,
+  "total_cost": 12.53
 }

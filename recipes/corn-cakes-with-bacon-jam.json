@@ -5,24 +5,78 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 lb. bacon slices, cut crosswise into ¼-inch-wide pieces",
-    "1 large yellow onion, thinly sliced",
-    "2 T tomato paste",
-    "2 T packed dark brown sugar",
-    "¼ cup sherry vinegar",
-    "½ tsp. red pepper flakes",
-    "Kosher salt",
-    "½ cup sour cream",
-    "4 T sliced chives",
-    "2 cups fresh corn kernels (from 2 to 3 large ears of corn)",
-    "2 T unsalted butter, melted and cooled slightly",
-    "2 large eggs, separated",
-    "½ cup stone-ground yellow cornmeal",
-    "½ cup all-purpose flour",
-    "1 T granulated sugar",
-    "1 tsp. garlic powder",
-    "1 tsp. kosher salt, plus more for seasoning",
-    "¼ tsp. freshly ground black pepper, plus more for seasoning"
+    {
+      "description": "1 lb. bacon slices, cut crosswise into ¼-inch-wide pieces",
+      "cost": 3
+    },
+    {
+      "description": "1 large yellow onion, thinly sliced",
+      "cost": 1.5
+    },
+    {
+      "description": "2 T tomato paste",
+      "cost": 0.3
+    },
+    {
+      "description": "2 T packed dark brown sugar",
+      "cost": 0.05
+    },
+    {
+      "description": "¼ cup sherry vinegar",
+      "cost": 0.5
+    },
+    {
+      "description": "½ tsp. red pepper flakes",
+      "cost": 0.05
+    },
+    {
+      "description": "Kosher salt",
+      "cost": 0.01
+    },
+    {
+      "description": "½ cup sour cream",
+      "cost": 0.5
+    },
+    {
+      "description": "4 T sliced chives",
+      "cost": 0.5
+    },
+    {
+      "description": "2 cups fresh corn kernels (from 2 to 3 large ears of corn)",
+      "cost": 0.67
+    },
+    {
+      "description": "2 T unsalted butter, melted and cooled slightly",
+      "cost": 0.08
+    },
+    {
+      "description": "2 large eggs, separated",
+      "cost": 0.6
+    },
+    {
+      "description": "½ cup stone-ground yellow cornmeal",
+      "cost": 0.42
+    },
+    {
+      "description": "½ cup all-purpose flour",
+      "cost": 0.5
+    },
+    {
+      "description": "1 T granulated sugar",
+      "cost": 0.03
+    },
+    {
+      "description": "1 tsp. garlic powder",
+      "cost": 0.5
+    },
+    {
+      "description": "1 tsp. kosher salt, plus more for seasoning",
+      "cost": 0.01
+    },
+    {
+      "description": "¼ tsp. freshly ground black pepper, plus more for seasoning",
+      "cost": 0.05
+    }
   ],
   "normalized_ingredients": [
     "Bacon",
@@ -57,5 +111,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 9.27
 }

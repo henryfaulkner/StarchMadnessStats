@@ -5,17 +5,50 @@
   "ethnic_origin": "Lithuanian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "3 small white onions chopped",
-    "2 garlic cloves finely chopped",
-    "1½ tsp olive oil",
-    "500g beef or pork mince or 250g of each",
-    "1 medium egg",
-    "150g smoked pancetta sliced into strips",
-    "2½kg Agria, Maris Piper or similarly starchy potatoes peeled",
-    "½ tsp citric acid or lemon juice",
-    "2 tbsp potato starch or cornflour",
-    "¼ small bunch of dill chopped",
-    "Soured cream to serve (optional)"
+    {
+      "description": "3 small white onions chopped",
+      "cost": 4.5
+    },
+    {
+      "description": "2 garlic cloves finely chopped",
+      "cost": 1.0
+    },
+    {
+      "description": "1½ tsp olive oil",
+      "cost": 0.08
+    },
+    {
+      "description": "500g beef or pork mince or 250g of each",
+      "cost": 3.5
+    },
+    {
+      "description": "1 medium egg",
+      "cost": 0.3
+    },
+    {
+      "description": "150g smoked pancetta sliced into strips",
+      "cost": 2
+    },
+    {
+      "description": "2½kg Agria, Maris Piper or similarly starchy potatoes peeled",
+      "cost": 1.98
+    },
+    {
+      "description": "½ tsp citric acid or lemon juice",
+      "cost": 0.5
+    },
+    {
+      "description": "2 tbsp potato starch or cornflour",
+      "cost": 0.02
+    },
+    {
+      "description": "¼ small bunch of dill chopped",
+      "cost": 0.1
+    },
+    {
+      "description": "Soured cream to serve (optional)",
+      "cost": 0.25
+    }
   ],
   "normalized_ingredients": [
     "Onion",
@@ -46,5 +79,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 14.23
 }

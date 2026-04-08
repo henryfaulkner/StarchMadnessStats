@@ -5,10 +5,22 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "Fresh corn",
-    "Cream",
-    "Butter",
-    "Corn milk"
+    {
+      "description": "Fresh corn",
+      "cost": 0.02
+    },
+    {
+      "description": "Cream",
+      "cost": 5.0
+    },
+    {
+      "description": "Butter",
+      "cost": 0.04
+    },
+    {
+      "description": "Corn milk",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Corn",
@@ -30,5 +42,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 5.56
 }

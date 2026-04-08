@@ -5,17 +5,50 @@
   "ethnic_origin": "Italian",
   "written_by_celebrity_author": true,
   "ingredients": [
-    "50ml olive oil",
-    "500g stewing beef, trimmed of fat, rinsed, patted dry, and cut into medium size pieces",
-    "500g country-style spareribs, trimmed of fat, cut in half, rinsed, and patted dry",
-    "115g onions, roughly chopped",
-    "3 garlic cloves, roughly chopped",
-    "125ml dry red wine",
-    "175g tomato paste or concentrated purée",
-    "375ml warm water, plus more as needed",
-    "5 x 400g cans of whole plum tomatoes, passed through a food mill or puréed in the blender",
-    "3 fresh basil leaves",
-    "1 tbsp fresh oregano leaves, chopped, or 1 teaspoon dried"
+    {
+      "description": "50ml olive oil",
+      "cost": 0.27
+    },
+    {
+      "description": "500g stewing beef, trimmed of fat, rinsed, patted dry, and cut into medium size pieces",
+      "cost": 8.82
+    },
+    {
+      "description": "500g country-style spareribs, trimmed of fat, cut in half, rinsed, and patted dry",
+      "cost": 4.41
+    },
+    {
+      "description": "115g onions, roughly chopped",
+      "cost": 0.38
+    },
+    {
+      "description": "3 garlic cloves, roughly chopped",
+      "cost": 1.5
+    },
+    {
+      "description": "125ml dry red wine",
+      "cost": 0.5
+    },
+    {
+      "description": "175g tomato paste or concentrated purée",
+      "cost": 1.75
+    },
+    {
+      "description": "375ml warm water, plus more as needed",
+      "cost": 0.0
+    },
+    {
+      "description": "5 x 400g cans of whole plum tomatoes, passed through a food mill or puréed in the blender",
+      "cost": 1.5
+    },
+    {
+      "description": "3 fresh basil leaves",
+      "cost": 0.3
+    },
+    {
+      "description": "1 tbsp fresh oregano leaves, chopped, or 1 teaspoon dried",
+      "cost": 0.15
+    }
   ],
   "normalized_ingredients": [
     "Oil",
@@ -44,5 +77,6 @@
   "vote_percentage_round_two": 55.1,
   "vote_percentage_round_three": 48.5,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 19.58
 }

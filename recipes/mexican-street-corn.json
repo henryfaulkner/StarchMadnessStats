@@ -5,11 +5,26 @@
   "ethnic_origin": "Mexican",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 ear of corn",
-    "½ can of chipotles in adobo",
-    "1 tablespoon mayonnaise",
-    "1 tablespoon cotija cheese",
-    "Few sprigs of cilantro"
+    {
+      "description": "1 ear of corn",
+      "cost": 0.75
+    },
+    {
+      "description": "½ can of chipotles in adobo",
+      "cost": 0.5
+    },
+    {
+      "description": "1 tablespoon mayonnaise",
+      "cost": 0.5
+    },
+    {
+      "description": "1 tablespoon cotija cheese",
+      "cost": 0.25
+    },
+    {
+      "description": "Few sprigs of cilantro",
+      "cost": 1.5
+    }
   ],
   "normalized_ingredients": [
     "Corn",
@@ -32,5 +47,6 @@
   "vote_percentage_round_two": 60.6,
   "vote_percentage_round_three": 54.2,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 3.5
 }

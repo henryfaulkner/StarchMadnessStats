@@ -5,24 +5,78 @@
   "ethnic_origin": "Indian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 pound Idaho potatoes",
-    "6 teaspoons vegetable oil",
-    "1 teaspoon mustard seeds",
-    "8 curry leaves",
-    "Pinch of asafetida (hing)",
-    "6 garlic cloves, chopped",
-    "¼ pound jalapeño peppers, ground in a food processor",
-    "1/8 teaspoon ground turmeric",
-    "¼ cup fresh lime juice",
-    "1 bunch cilantro, leaves finely chopped",
-    "1 tablespoon paprika",
-    "Kosher salt",
-    "1 pound fine chickpea flour",
-    "¼ cup cumin seeds",
-    "Vegetable oil, for frying",
-    "6 slider buns, toasted and buttered",
-    "Dry garlic chutney, for topping",
-    "Tamarind sauce, for serving"
+    {
+      "description": "1 pound Idaho potatoes",
+      "cost": 0.99
+    },
+    {
+      "description": "6 teaspoons vegetable oil",
+      "cost": 0.5
+    },
+    {
+      "description": "1 teaspoon mustard seeds",
+      "cost": 0.3
+    },
+    {
+      "description": "8 curry leaves",
+      "cost": 0.08
+    },
+    {
+      "description": "Pinch of asafetida (hing)",
+      "cost": 0.1
+    },
+    {
+      "description": "6 garlic cloves, chopped",
+      "cost": 3.0
+    },
+    {
+      "description": "¼ pound jalapeño peppers, ground in a food processor",
+      "cost": 0.5
+    },
+    {
+      "description": "1/8 teaspoon ground turmeric",
+      "cost": 0.01
+    },
+    {
+      "description": "¼ cup fresh lime juice",
+      "cost": 0.25
+    },
+    {
+      "description": "1 bunch cilantro, leaves finely chopped",
+      "cost": 1.5
+    },
+    {
+      "description": "1 tablespoon paprika",
+      "cost": 0.15
+    },
+    {
+      "description": "Kosher salt",
+      "cost": 0.01
+    },
+    {
+      "description": "1 pound fine chickpea flour",
+      "cost": 2.0
+    },
+    {
+      "description": "¼ cup cumin seeds",
+      "cost": 0.05
+    },
+    {
+      "description": "Vegetable oil, for frying",
+      "cost": 1.99
+    },
+    {
+      "description": "6 slider buns, toasted and buttered",
+      "cost": 3.0
+    },
+    {
+      "description": "Dry garlic chutney, for topping",
+      "cost": 0.5
+    },
+    {
+      "description": "Tamarind sauce, for serving",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Potato",
@@ -40,7 +94,7 @@
     "Flour",
     "Cumin seeds",
     "Oil",
-    "Slider buns",
+    "Bread",
     "Chutney",
     "Tamarind sauce"
   ],
@@ -58,5 +112,6 @@
   "vote_percentage_round_two": 54.3,
   "vote_percentage_round_three": 28.9,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 15.43
 }

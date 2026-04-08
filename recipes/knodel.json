@@ -5,13 +5,34 @@
   "ethnic_origin": "German",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "1 onion, chopped",
-    "2 tablespoons chopped fresh parsley",
-    "2 teaspoons butter",
-    "0.5 (1 pound) loaf white bread, toasted and cut into cubes",
-    "1 cup milk",
-    "2 large eggs, beaten",
-    "Salt and pepper to taste"
+    {
+      "description": "1 onion, chopped",
+      "cost": 1.5
+    },
+    {
+      "description": "2 tablespoons chopped fresh parsley",
+      "cost": 0.5
+    },
+    {
+      "description": "2 teaspoons butter",
+      "cost": 0.03
+    },
+    {
+      "description": "0.5 (1 pound) loaf white bread, toasted and cut into cubes",
+      "cost": 0.12
+    },
+    {
+      "description": "1 cup milk",
+      "cost": 0.5
+    },
+    {
+      "description": "2 large eggs, beaten",
+      "cost": 0.6
+    },
+    {
+      "description": "Salt and pepper to taste",
+      "cost": 0.01
+    }
   ],
   "normalized_ingredients": [
     "Onion",
@@ -37,5 +58,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 3.21
 }

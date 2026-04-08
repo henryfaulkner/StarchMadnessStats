@@ -5,19 +5,58 @@
   "ethnic_origin": "Indian",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "3 ¼ cups + 3-4 tablespoons all purpose flour",
-    "1 teaspoon salt",
-    "1 cup water (lukewarm, 8 oz)",
-    "1 tablespoon sugar",
-    "2 teaspoons active dry yeast",
-    "½ cup milk (lukewarm)",
-    "2 tablespoons plain yogurt",
-    "3 tablespoons oil (I used vegetable)",
-    "2 large garlic cloves (grated)",
-    "Nigella seeds/kalonji",
-    "3 tablespoons butter (I used unsalted)",
-    "3 tablespoons chopped cilantro",
-    "2 teaspoons minced garlic"
+    {
+      "description": "3 ¼ cups + 3-4 tablespoons all purpose flour",
+      "cost": 1.50
+    },
+    {
+      "description": "1 teaspoon salt",
+      "cost": 0.0
+    },
+    {
+      "description": "1 cup water (lukewarm, 8 oz)",
+      "cost": 0.0
+    },
+    {
+      "description": "1 tablespoon sugar",
+      "cost": 0.03
+    },
+    {
+      "description": "2 teaspoons active dry yeast",
+      "cost": 0.2
+    },
+    {
+      "description": "½ cup milk (lukewarm)",
+      "cost": 0.5
+    },
+    {
+      "description": "2 tablespoons plain yogurt",
+      "cost": 0.3
+    },
+    {
+      "description": "3 tablespoons oil (I used vegetable)",
+      "cost": 0.97
+    },
+    {
+      "description": "2 large garlic cloves (grated)",
+      "cost": 1.0
+    },
+    {
+      "description": "Nigella seeds/kalonji",
+      "cost": 0.5
+    },
+    {
+      "description": "3 tablespoons butter (I used unsalted)",
+      "cost": 0.12
+    },
+    {
+      "description": "3 tablespoons chopped cilantro",
+      "cost": 0.5
+    },
+    {
+      "description": "2 teaspoons minced garlic",
+      "cost": 1.0
+    }
   ],
   "normalized_ingredients": [
     "Flour",
@@ -47,5 +86,6 @@
   "vote_percentage_round_two": 44.9,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 6.62
 }

@@ -5,19 +5,58 @@
   "ethnic_origin": "American",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "2 tablespoons unsalted butter",
-    "½ cup finely chopped shallots",
-    "½ cup finely chopped scallions, reserving 1 tablespoon dark green parts for garnish",
-    "1 ½ cups finely chopped leeks, white and light green parts",
-    "1 ½ cups finely chopped onion",
-    "Kosher salt",
-    "Flavorless oil",
-    "4 large eggs, beaten",
-    "Black pepper",
-    "4 cloves garlic, minced",
-    "1 tablespoon minced fresh ginger",
-    "2 cups cooked brown or white rice",
-    "1 part Sriracha and 3 parts mayonnaise (or Sriracha mayo), for serving"
+    {
+      "description": "2 tablespoons unsalted butter",
+      "cost": 0.08
+    },
+    {
+      "description": "½ cup finely chopped shallots",
+      "cost": 0.3
+    },
+    {
+      "description": "½ cup finely chopped scallions, reserving 1 tablespoon dark green parts for garnish",
+      "cost": 0.1
+    },
+    {
+      "description": "1 ½ cups finely chopped leeks, white and light green parts",
+      "cost": 1.5
+    },
+    {
+      "description": "1 ½ cups finely chopped onion",
+      "cost": 0.25
+    },
+    {
+      "description": "Kosher salt",
+      "cost": 0.01
+    },
+    {
+      "description": "Flavorless oil",
+      "cost": 0.99
+    },
+    {
+      "description": "4 large eggs, beaten",
+      "cost": 1.2
+    },
+    {
+      "description": "Black pepper",
+      "cost": 0.05
+    },
+    {
+      "description": "4 cloves garlic, minced",
+      "cost": 2.0
+    },
+    {
+      "description": "1 tablespoon minced fresh ginger",
+      "cost": 0.25
+    },
+    {
+      "description": "2 cups cooked brown or white rice",
+      "cost": 0.67
+    },
+    {
+      "description": "1 part Sriracha and 3 parts mayonnaise (or Sriracha mayo), for serving",
+      "cost": 0.5
+    }
   ],
   "normalized_ingredients": [
     "Butter",
@@ -49,5 +88,6 @@
   "vote_percentage_round_two": 0.0,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 7.9
 }

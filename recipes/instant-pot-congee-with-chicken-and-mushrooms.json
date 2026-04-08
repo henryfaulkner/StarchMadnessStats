@@ -5,15 +5,42 @@
   "ethnic_origin": "Chinese",
   "written_by_celebrity_author": false,
   "ingredients": [
-    "7 cups low-sodium chicken broth",
-    "1 cup jasmine rice",
-    "1 1-inch piece fresh ginger, peeled and thinly sliced into coins",
-    "1 leek, halved lengthwise and thinly sliced (dark green parts separated)",
-    "Kosher salt",
-    "2 tablespoons vegetable oil",
-    "10 ounces sliced shiitake mushrooms",
-    "3 cups shredded rotisserie chicken (about 12 ounces)",
-    "Soy sauce, for serving"
+    {
+      "description": "7 cups low-sodium chicken broth",
+      "cost": 1.75
+    },
+    {
+      "description": "1 cup jasmine rice",
+      "cost": 0.33
+    },
+    {
+      "description": "1 1-inch piece fresh ginger, peeled and thinly sliced into coins",
+      "cost": 0.25
+    },
+    {
+      "description": "1 leek, halved lengthwise and thinly sliced (dark green parts separated)",
+      "cost": 1.5
+    },
+    {
+      "description": "Kosher salt",
+      "cost": 0.01
+    },
+    {
+      "description": "2 tablespoons vegetable oil",
+      "cost": 0.98
+    },
+    {
+      "description": "10 ounces sliced shiitake mushrooms",
+      "cost": 0.5
+    },
+    {
+      "description": "3 cups shredded rotisserie chicken (about 12 ounces)",
+      "cost": 3.38
+    },
+    {
+      "description": "Soy sauce, for serving",
+      "cost": 0.1
+    }
   ],
   "normalized_ingredients": [
     "Stock",
@@ -40,5 +67,6 @@
   "vote_percentage_round_two": 46.7,
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
-  "vote_percentage_round_five": 0.0
+  "vote_percentage_round_five": 0.0,
+  "total_cost": 8.8
 }
