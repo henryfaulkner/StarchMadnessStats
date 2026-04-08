@@ -63,5 +63,6 @@
   "vote_percentage_round_three": 0.0,
   "vote_percentage_round_four": null,
   "vote_percentage_round_five": 0.0,
-  "total_cost": 7.06
+  "total_cost": 7.06,
+  "number_of_servings": 6
 }
