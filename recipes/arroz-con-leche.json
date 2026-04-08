@@ -3,7 +3,7 @@
   "source_url": "https://www.foodnetwork.com/recipes/ingrid-hoffmann/arroz-con-leche-recipe-1949632",
   "title": "Arroz Con Leche",
   "ethnic_origin": "Latin American",
-  "celebrity_author": false,
+  "written_by_celebrity_author": false,
   "ingredients": [
     "1 cup long-grain white rice",
     "2 cinnamon sticks",
@@ -14,7 +14,18 @@
     "3 cups whole milk",
     "1 (12-ounce) can sweetened condensed milk",
     "1 tablespoon vanilla extract",
-    "\u00bd cup raisins, optional"
+    "½ cup raisins, optional"
+  ],
+  "normalized_ingredients": [
+    "Rice",
+    "Cinnamon",
+    "Lemon",
+    "Cloves",
+    "Water",
+    "Egg",
+    "Milk",
+    "Vanilla extract",
+    "Raisins"
   ],
   "won_round_one": 1,
   "won_round_two": 1,

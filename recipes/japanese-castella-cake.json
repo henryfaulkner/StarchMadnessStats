@@ -3,15 +3,24 @@
   "source_url": "https://www.justonecookbook.com/castella/",
   "title": "Japanese Castella Cake",
   "ethnic_origin": "Japanese",
-  "celebrity_author": false,
+  "written_by_celebrity_author": false,
   "ingredients": [
     "2 Tbsp water",
     "3 Tbsp honey",
     "1 Tbsp mizuame syrup (glutinous starch syrup)",
     "100 g bread flour",
-    "3 large eggs (50 g each w/o shell) (at room temperature\u2014very important!)",
-    "100 g sugar (\u00bd cup)",
-    "\u00bd Tbsp white sparkling sugar"
+    "3 large eggs (50 g each w/o shell) (at room temperature—very important!)",
+    "100 g sugar (½ cup)",
+    "½ Tbsp white sparkling sugar"
+  ],
+  "normalized_ingredients": [
+    "Water",
+    "Honey",
+    "Syrup",
+    "Flour",
+    "Egg",
+    "Sugar",
+    "Sugar"
   ],
   "won_round_one": 1,
   "won_round_two": 0,

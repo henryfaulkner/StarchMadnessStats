@@ -3,15 +3,24 @@
   "source_url": "https://braziliankitchenabroad.com/brazilian-cheese-bread/",
   "title": "Brazilian Cheese Bread",
   "ethnic_origin": "Brazilian",
-  "celebrity_author": false,
+  "written_by_celebrity_author": false,
   "ingredients": [
     "1 cup grated Parmesan cheese",
     "1 10oz round of Queso Fresco, crumbled",
     "1 cup full fat milk",
-    "\u00bc cup vegetable oil (plus 1 Tbsp for oiling your hands)",
+    "¼ cup vegetable oil (plus 1 Tbsp for oiling your hands)",
     "2 eggs",
     "1 lb tapioca flour (also known as tapioca starch)",
     "2 tsp kosher salt"
+  ],
+  "normalized_ingredients": [
+    "Cheese",
+    "Cheese",
+    "Milk",
+    "Oil",
+    "Egg",
+    "Flour",
+    "Salt"
   ],
   "won_round_one": 0,
   "won_round_two": 0,

@@ -3,15 +3,25 @@
   "source_url": "https://pattietierney.blogspot.com/2019/06/david-butkas-french-onion-potatoes-au.html",
   "title": "French Onion Potatoes Au Gratin",
   "ethnic_origin": "French-American",
-  "celebrity_author": false,
+  "written_by_celebrity_author": false,
   "ingredients": [
     "6 T. canola oil, plus more for greasing",
-    "3 lg. onions (about 2\u00bc pounds), quartered, thinly sliced",
+    "3 lg. onions (about 2¼ pounds), quartered, thinly sliced",
     "Kosher salt and freshly ground black pepper",
     "2 garlic cloves, minced",
-    "6 to 8 Yukon Gold potatoes (about 2\u00bd pounds), peeled, very thinly sliced",
+    "6 to 8 Yukon Gold potatoes (about 2½ pounds), peeled, very thinly sliced",
     "12 oz. Gruyere cheese, shredded",
-    "2\u00bd c. half-and-half"
+    "2½ c. half-and-half"
+  ],
+  "normalized_ingredients": [
+    "Oil",
+    "Onion",
+    "Salt",
+    "Pepper",
+    "Garlic",
+    "Potato",
+    "Cheese",
+    "Half-and-half"
   ],
   "won_round_one": 1,
   "won_round_two": 0,

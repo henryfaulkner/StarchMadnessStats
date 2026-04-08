@@ -3,13 +3,20 @@
   "source_url": "https://www.chefaaronsanchez.com/post/mexican-street-corn",
   "title": "Mexican Street Corn",
   "ethnic_origin": "Mexican",
-  "celebrity_author": false,
+  "written_by_celebrity_author": false,
   "ingredients": [
     "1 ear of corn",
-    "? can of chipotles in adobo",
+    "½ can of chipotles in adobo",
     "1 tablespoon mayonnaise",
     "1 tablespoon cotija cheese",
     "Few sprigs of cilantro"
+  ],
+  "normalized_ingredients": [
+    "Corn",
+    "Chipotle adobo sauce",
+    "Mayonnaise",
+    "Cheese",
+    "Cilantro"
   ],
   "won_round_one": 1,
   "won_round_two": 1,

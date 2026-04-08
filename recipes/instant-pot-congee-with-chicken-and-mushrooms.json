@@ -3,7 +3,7 @@
   "source_url": "https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-congee-with-chicken-and-mushrooms-10024581",
   "title": "Instant Pot Congee With Chicken And Mushrooms",
   "ethnic_origin": "Chinese",
-  "celebrity_author": false,
+  "written_by_celebrity_author": false,
   "ingredients": [
     "7 cups low-sodium chicken broth",
     "1 cup jasmine rice",
@@ -14,6 +14,17 @@
     "10 ounces sliced shiitake mushrooms",
     "3 cups shredded rotisserie chicken (about 12 ounces)",
     "Soy sauce, for serving"
+  ],
+  "normalized_ingredients": [
+    "Stock",
+    "Rice",
+    "Ginger",
+    "Onion",
+    "Salt",
+    "Oil",
+    "Mushrooms",
+    "Chicken",
+    "Soy sauce"
   ],
   "won_round_one": 1,
   "won_round_two": 0,

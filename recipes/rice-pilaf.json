@@ -3,12 +3,19 @@
   "source_url": "https://www.foodnetwork.com/recipes/rachael-ray/rice-pilaf-recipe-1940762",
   "title": "Rice Pilaf",
   "ethnic_origin": "Middle Eastern",
-  "celebrity_author": false,
+  "written_by_celebrity_author": false,
   "ingredients": [
     "2 tablespoons butter",
-    "? cup thin spaghetti, broken into 1 inch pieces, about 1/6 of a 1 pound box of dried pasta",
-    "\u00be cup white enriched rice",
-    "1 \u00bd cups chicken broth or water",
+    "½ cup thin spaghetti, broken into 1 inch pieces, about 1/6 of a 1 pound box of dried pasta",
+    "¾ cup white enriched rice",
+    "1 ½ cups chicken broth or water",
+    "Salt"
+  ],
+  "normalized_ingredients": [
+    "Butter",
+    "Pasta",
+    "Rice",
+    "Stock",
     "Salt"
   ],
   "won_round_one": 0,

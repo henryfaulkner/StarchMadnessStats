@@ -3,7 +3,7 @@
   "source_url": "https://thehappyfoodie.co.uk/recipes/stanley-tucci-beef-ragu/",
   "title": "Stanley Tucci's Ragù Tucci",
   "ethnic_origin": "Italian",
-  "celebrity_author": true,
+  "written_by_celebrity_author": true,
   "ingredients": [
     "50ml olive oil",
     "500g stewing beef, trimmed of fat, rinsed, patted dry, and cut into medium size pieces",
@@ -16,6 +16,19 @@
     "5 x 400g cans of whole plum tomatoes, passed through a food mill or puréed in the blender",
     "3 fresh basil leaves",
     "1 tbsp fresh oregano leaves, chopped, or 1 teaspoon dried"
+  ],
+  "normalized_ingredients": [
+    "Oil",
+    "Stewing beef",
+    "Spareribs",
+    "Onion",
+    "Garlic",
+    "Dry red wine",
+    "Tomato paste",
+    "Water",
+    "Whole plum tomatoes",
+    "Fresh Herbs",
+    "Fresh Herbs"
   ],
   "won_round_one": 1,
   "won_round_two": 1,
